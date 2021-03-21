@@ -1,5 +1,5 @@
-# TPR
-*39714 TPR project 
+# TPUM
+student *39714 TPUM project 
 
 # Tworzenie repozytorium - lista kontrolna
 
